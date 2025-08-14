@@ -1,5 +1,9 @@
 # FraudWatch Africa
 
+
+https://github.com/user-attachments/assets/f7d0bffd-853b-4f7d-8f35-01376b7b908e
+
+
 ## Problem Statement  
 The availability and rise of mobile money platforms and services has significantly improved financial inclusion in Africa. However, it has also gained the attraction of fraudsters, who exploit factors such as anonymity of transactions and weak security measures. And as a result, incidents of identity theft, SIM swaps and unauthorized transactions, have also been on the rise.
 
