@@ -1,0 +1,3 @@
+transaction_id,user_id,transaction_type,amount,location,device_type,network_provider,user_type,time_of_day,is_foreign_number,is_sim_recently_swapped,has_multiple_accounts,datetime
+TX120006,user_8097,Withdraw Cash,250000.65,Nakuru,Ios,Safaricom,Individual,Night,1.00,0.00,1.00,2025-10-10 02:23:09
+TX200345,user_5600,Send Money,250.60,Nairobi,Feature Phone,Airtel,Agent,Night,0.00,0.00,0.00,2025-08-20 04:05:05
